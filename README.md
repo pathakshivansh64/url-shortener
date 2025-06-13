@@ -48,7 +48,7 @@ Visit the live website here: [Zap-URL](https://zap-url.onrender.com)
 
 I'd love to hear from you! Whether you have feedback, questions, or suggestions, feel free to get in touch:
 
-- **Email**: [piyush30rathwe@gmail.com](piyush30rathwe@gmail.com)
-- **LinkedIn**: [@Piyush-Rathwe](https://www.linkedin.com/in/piyush-rathwe-11628b216/)
+- **Email**: shivanshpathak64@gmail.com
+-
 
 For more information, check out the [FAQ](https://zap-url.onrender.com/)
